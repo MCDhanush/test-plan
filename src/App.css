@@ -1,7 +1,7 @@
 .body-box{
   /* background-color: rgb(170, 10, 154); */
   padding: 0;
-  margin: 130px 150px 70px 400px;
+  margin: auto;
   width: 700px;
   height: 450px;
   box-shadow: 0px 10px 87px -3px rgba(0,0,0,0.1);
@@ -56,4 +56,9 @@
 }
 .span-fi{
   color: #666667;
+}
+
+.box{
+  margin-top: 150px;
+  display: block;
 }
